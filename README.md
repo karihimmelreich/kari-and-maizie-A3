@@ -8,6 +8,8 @@ Catch as many of Maizie's favourite things as you can in 1 minute! This is a sta
 
 # KEY: 
 
+To use this game, please refer to the below instructions. In this instance, the keys (W, A, S, D) are standard keyboard keys. This game is incompatible with mobile devices without keyboards. 
+
 W = up
 
 A = left
