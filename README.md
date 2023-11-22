@@ -22,3 +22,9 @@ D = right
 # ACCESS LINK
 
 https://scratch.mit.edu/projects/928012561
+
+
+# Image database link
+
+ALL OF THE IMAGES IN THE BELOW DOCUMENT WERE SOURCED FROM MY OWN PERSONAL CAMERA ROLL FROM IMAGES I HAVE TAKEN MYSELF.
+https://docs.google.com/document/d/11ymux7FWqVQFAnG5Wf6CtkprKjD5AK_CaP8B18alS_g/edit?usp=sharing
